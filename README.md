@@ -1,3 +1,3 @@
-# semanticClimate.github.io
-semanticClimate
+# semanticClimate
+
 
