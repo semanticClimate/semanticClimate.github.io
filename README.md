@@ -1,11 +1,22 @@
-# semanticClimate
+# #semanticClimate
+Most other subjects have highly heterogeneous data without semantics and this holds back the creation of knowledge. There is a pressing need to make knowledge about climate available to mitigate the effects of gaseous emissions. The most important resource is the UN’s IPCC reports, published about every five years. In 2021-2022 AR6, with 10,000 pages, was released. #semanticClimate is a group of young Indian science students who are developing tools and community protocols to make IPCC AR6 semantic.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus id interdum velit laoreet id. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in. Massa vitae tortor condimentum lacinia quis vel eros donec ac. Felis eget velit aliquet sagittis id consectetur purus. Faucibus turpis in eu mi bibendum neque. Nulla aliquet enim tortor at auctor. Neque viverra justo nec ultrices dui sapien eget mi proin. Quis enim lobortis scelerisque fermentum dui faucibus in ornare. Maecenas sed enim ut sem viverra aliquet. Aliquam purus sit amet luctus venenatis lectus magna. Lorem sed risus ultricies tristique nulla aliquet enim tortor at. Enim praesent elementum facilisis leo. Amet tellus cras adipiscing enim. Elementum sagittis vitae et leo duis ut diam quam nulla. Integer malesuada nunc vel risus commodo viverra. Mi proin sed libero enim. Dolor sit amet consectetur adipiscing. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci nulla.
+# Goals
+* to convert the IPCC documents from PDF into (a) HTML (b) XML
+* extract terms and explore their use and meaning
+* link terms to [Wikidata](Wikidata.org) and create AMI-dictionaries
+* create new structiures for navigation, search, display
 
-Turpis nunc eget lorem dolor sed viverra ipsum. Sit amet est placerat in. Pellentesque massa placerat duis ultricies lacus. Arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc. Luctus accumsan tortor posuere ac ut consequat. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a. Morbi non arcu risus quis varius quam quisque id diam. Ac turpis egestas maecenas pharetra convallis. Aenean sed adipiscing diam donec adipiscing tristique risus nec. Feugiat in fermentum posuere urna nec tincidunt praesent. Vel eros donec ac odio tempor orci. Risus sed vulputate odio ut enim.
+# What #SemanticClimate does
+We develop tools to liberate knowledge from locked PDFs and host events everybody gets a chance to explore the content in these reports through our tools. 
+Our [Technical Strategy Page](https://github.com/petermr/semanticClimate/tree/main/ipcc/ar6/wg3#readme) gives an overview of the tools. 
+# Upcoming Events
+Check out our [Events page](/events.md) for details about upcoming hackathons we host and other events we are part of. 
 
-Auctor elit sed vulputate mi sit amet mauris commodo quis. Sed augue lacus viverra vitae congue. In massa tempor nec feugiat nisl pretium. Eleifend quam adipiscing vitae proin sagittis. Sed felis eget velit aliquet sagittis id. Eu scelerisque felis imperdiet proin fermentum leo vel orci. Vitae et leo duis ut diam quam nulla. Faucibus et molestie ac feugiat sed. Auctor neque vitae tempus quam pellentesque nec. Lacus sed viverra tellus in hac habitasse platea dictumst. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Risus viverra adipiscing at in tellus integer feugiat. Pulvinar elementum integer enim neque. Nisl suscipit adipiscing bibendum est ultricies integer. Id aliquet lectus proin nibh nisl.
-
-Porta lorem mollis aliquam ut. Enim eu turpis egestas pretium aenean pharetra magna ac. Sed libero enim sed faucibus turpis in eu mi bibendum. Id leo in vitae turpis massa. Lectus quam id leo in vitae turpis massa. Et sollicitudin ac orci phasellus egestas tellus rutrum tellus. Purus sit amet luctus venenatis lectus. Leo vel orci porta non pulvinar neque. A erat nam at lectus. Mi sit amet mauris commodo. Turpis egestas integer eget aliquet. Sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. A erat nam at lectus urna duis convallis convallis. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Feugiat in fermentum posuere urna nec. Vel pretium lectus quam id leo in vitae turpis massa. Feugiat in fermentum posuere urna nec tincidunt. Varius duis at consectetur lorem donec massa sapien faucibus et. Malesuada pellentesque elit eget gravida cum sociis natoque. Facilisi nullam vehicula ipsum a arcu cursus vitae congue.
-
-Nisi porta lorem mollis aliquam. Quis blandit turpis cursus in. Egestas maecenas pharetra convallis posuere. Eget lorem dolor sed viverra. Rutrum quisque non tellus orci. Nunc sed id semper risus in hendrerit gravida. Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Tortor at auctor urna nunc id. Enim nec dui nunc mattis enim ut tellus elementum. In fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Bibendum enim facilisis gravida neque convallis a cras.
+# How to get involved
+We are looking for volunteers/funders to: 
+- run more events
+- develop the code (open an Issue/PR to get started)
+- develop the content (start a Discussion thread at https://github.com/petermr/petermr/discussions/)
+   - dictionaries
+   - semantified chapters
