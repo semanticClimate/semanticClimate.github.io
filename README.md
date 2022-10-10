@@ -27,4 +27,4 @@ We are looking for volunteers/funders to:
 
 ## About
 
-semanticClimate is an open research project run by volunteers. semanticClimate practices OpenNotebook Science meaning all activity and material is open.
+semanticClimate is an open research project run by volunteers. semanticClimate practices OpenNotebook Science meaning all activity and material is open. semanticClimate exists to further develop open-source technology for knowledge liberation on the topic of climate change for the benefit humanity, scholarship, and education. 
