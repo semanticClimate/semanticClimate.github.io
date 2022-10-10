@@ -23,7 +23,7 @@ We are looking for volunteers/funders to:
    - dictionaries
    - semantified chapters
 
-| Info [Data Privacy]() | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
+| Info: [Imprint](imprint.md) | [Data Privacy]() | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
 
 ## About
 
