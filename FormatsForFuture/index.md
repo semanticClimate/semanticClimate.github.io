@@ -1,4 +1,4 @@
-| Menu: [semanticClimate](../)
+| Menu: [semanticClimate](../) |
 
 # Formats For Future: Liberating and Semantify IPCC Reports
 
