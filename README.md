@@ -1,7 +1,7 @@
 | Menu [FormatsForFuture](/FormatsForFuture) << OA Week Hackathon 24-30 Oct | [All events page](https://github.com/petermr/semanticClimate/blob/main/events.md) |
 
 # #semanticClimate
-There is a pressing need to make knowledge about climate available to mitigate the effects of gaseous emissions. The most important resource is the UN’s IPCC reports, published about every five years. In 2021-2022 AR6, with 10,000 pages, was released. Unfortunatley these are published as a set of PDF files which makes them extremely hard to read by humans or machines, preventing their widespread use. #semanticClimate is a group of young Indian science students who are developing tools and community protocols to make IPCC AR6 semantic.
+There is a pressing need to make knowledge about climate available to mitigate the effects of gaseous emissions. The most important resource is the UN’s IPCC reports, published about every five years. In 2021-2022 AR6, with 10,000 pages, was released - . Unfortunatley these are published as a set of PDF files which makes them extremely hard to read by humans or machines, preventing their widespread use. #semanticClimate is a group of young Indian science students who are developing tools and community protocols to make IPCC AR6 semantic.
 
 # Goals
 * to convert the IPCC documents from PDF into (a) HTML (b) XML
@@ -22,6 +22,12 @@ We are looking for volunteers/funders to:
 - develop the content (start a Discussion thread at https://github.com/petermr/petermr/discussions/)
    - dictionaries
    - semantified chapters
+   
+# IPCC Reports
+
+ * IPCC Sixth Assessment Report. [Working Group I: The Physical Science Basis](https://www.ipcc.ch/report/ar6/wg1/)
+ * IPCC Sixth Assessment Report. [Working Group II: Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/ar6/wg2/)
+ * IPCC Sixth Assessment Report. [Working Group III: Mitigation of Climate Change](https://www.ipcc.ch/report/ar6/wg3/)
 
 | Info: [Imprint](imprint.md) | [Data Privacy]() | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
 
