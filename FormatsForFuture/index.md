@@ -1,3 +1,5 @@
+| Menu: [semanticClimate](../)
+
 # Formats For Future: Liberating and Semantify IPCC Reports
 
 Invitation to participate in the hackathon to liberate and semantify the IPCC climate change reports
