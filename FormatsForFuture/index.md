@@ -22,7 +22,7 @@ The #semanticClimate group looks to liberate the IPCC reports by making their co
 
 ## How the hackathon works
 
-Information about the workflow and semanticClimate: [https://github.com/petermr/semanticClimate/blob/main/README.md](https://github.com/petermr/semanticClimate/blob/main/README.md)
+Information about the workflow and [semanticClimate](https://github.com/petermr/semanticClimate/blob/main/README.md)
 
 Sign up to take part: (EventBrite page)
 
