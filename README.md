@@ -1,4 +1,4 @@
-Menu [FormatsForFuture](/FormatsForFuture) | 
+| Menu [FormatsForFuture](/FormatsForFuture) <<< OA Week Hackathon 24-30 Oct | [All events page](https://github.com/petermr/semanticClimate/blob/main/events.md) |
 
 # #semanticClimate
 There is a pressing need to make knowledge about climate available to mitigate the effects of gaseous emissions. The most important resource is the UN’s IPCC reports, published about every five years. In 2021-2022 AR6, with 10,000 pages, was released. Unfortunatley these are published as a set of PDF files which makes them extremely hard to read by humans or machines, preventing their widespread use. #semanticClimate is a group of young Indian science students who are developing tools and community protocols to make IPCC AR6 semantic.
@@ -22,3 +22,5 @@ We are looking for volunteers/funders to:
 - develop the content (start a Discussion thread at https://github.com/petermr/petermr/discussions/)
    - dictionaries
    - semantified chapters
+
+| Info [Data Privacy]() | [About]() | [Contact]() | [Licensing]() |
