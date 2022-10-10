@@ -23,4 +23,8 @@ We are looking for volunteers/funders to:
    - dictionaries
    - semantified chapters
 
-| Info [Data Privacy]() | [About]() | [Contact]() | [Licensing]() |
+| Info [Data Privacy]() | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
+
+## About
+
+semanticClimate is an open research project run by volunteers. semanticClimate practices OpenNotebook Science meaning all activity and material is open.
