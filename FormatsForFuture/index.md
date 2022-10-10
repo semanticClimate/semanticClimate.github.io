@@ -62,3 +62,8 @@ It is anticipated that only 3 hours minimum volunteer time per person is needed 
 - Jupyter Notebooks [Colab instructions - Chapter 8](https://github.com/petermr/semanticClimate/blob/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook/climate_hackathon_chapter08.ipynb)
 - Video explaining how the hackathon works: Post-Hackthon Pitch to SDG Accelerator (12 min.): [https://youtu.be/0MGXic-uEQY](https://youtu.be/0MGXic-uEQY)
 - [All events page](https://github.com/petermr/semanticClimate/blob/main/events.md)
+
+
+---
+
+| Info: [Imprint](imprint.md) | [Privacy Policy & GDPR](/gdpr.md) | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
