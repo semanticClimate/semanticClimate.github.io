@@ -4,7 +4,7 @@ Invitation to participate in the hackathon to liberate and semantify the IPCC cl
 
 Open Access Week 2022 - October 24-30
 
-Sign up to take part: (EventBrite page link)
+Sign up to take part: [EventBrite](https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087)
 
 Information: [https://semanticclimate.github.io/FormatsForFuture](https://semanticclimate.github.io/FormatsForFuture)
 
@@ -24,7 +24,7 @@ The #semanticClimate group looks to liberate the IPCC reports by making their co
 
 Information about the workflow and [semanticClimate](https://github.com/petermr/semanticClimate/blob/main/README.md)
 
-Sign up to take part: (EventBrite page)
+Sign up to take part: [EventBrite](https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087)
 
 ### **The tools for semantify the IPCC reports**
 
