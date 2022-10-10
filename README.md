@@ -29,8 +29,10 @@ We are looking for volunteers/funders to:
  * IPCC Sixth Assessment Report. [Working Group II: Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/ar6/wg2/)
  * IPCC Sixth Assessment Report. [Working Group III: Mitigation of Climate Change](https://www.ipcc.ch/report/ar6/wg3/)
 
-| Info: [Imprint](imprint.md) | [Data Privacy]() | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
-
 ## About
 
 semanticClimate is an open research project run by volunteers. semanticClimate practices OpenNotebook Science meaning all activity and material is open. semanticClimate exists to further develop open-source technology for knowledge liberation on the topic of climate change for the benefit humanity, scholarship, and education. 
+
+---
+
+| Info: [Imprint](imprint.md) | [Data Privacy]() | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
