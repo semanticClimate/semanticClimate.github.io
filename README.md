@@ -35,4 +35,4 @@ semanticClimate is an open research project run by volunteers. semanticClimate p
 
 ---
 
-| Info: [Imprint](imprint.md) | [GDPR](/gdpr.md) | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
+| Info: [Imprint](imprint.md) | [Privacy Policy & GDPR](/gdpr.md) | [Contact](https://github.com/petermr/petermr/discussions/) | [Licensing - Apache License 2.0](https://github.com/petermr/semanticClimate/blob/main/LICENSE) |
