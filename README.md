@@ -4,7 +4,7 @@
 
 #semanticClimate #FormatsForFuture
 
-There is a pressing need to make knowledge about climate available to mitigate the effects of gaseous emissions. The most important resource is the UN’s IPCC reports, published about every five years. In 2021-2022 AR6, with 10,000 pages, was released - . Unfortunatley these are published as a set of PDF files which makes them extremely hard to read by humans or machines, preventing their widespread use. #semanticClimate is a group of young Indian science students who are developing tools and community protocols to make IPCC AR6 semantic.
+There is a pressing need to make knowledge about climate available to mitigate the effects of gaseous emissions. The most important resource is the UN’s IPCC reports, published about every five years. In 2021-2022 AR6, with 10,000 pages, was released. Unfortunatley these are published as a set of PDF files which makes them extremely hard to read by humans or machines, preventing their widespread use. #semanticClimate is a group of young Indian science students who are developing tools and community protocols to make IPCC AR6 semantic.
 
 # Goals
 * to convert the IPCC documents from PDF into (a) HTML (b) XML
