@@ -71,8 +71,10 @@ Q. Explain the first `entry` in the dictionary.(download the dictionary from fil
 
 Run the annotation cell and explain what it does notebook last cell. 
 
+
 ### 6. pygetpapers
 
+please watch this video to under pygetpapers [click here](https://www.youtube.com/watch?v=pUjiNzLVHLY&t=29s)
 
 `pygetpapers` was written by our volunteer Ayush Garg and is available at https://pypi.org/project/pygetpapers/. 
 
@@ -81,7 +83,6 @@ Run the annotation cell and explain what it does notebook last cell.
 * install and verify it works
 * create a query on Climate change in India using 2022 articles 
 * download both PDF and XML
-* manually inspect the first 5 hits and comment on whether they are useful to explore the query
 
 ## Summary
 
