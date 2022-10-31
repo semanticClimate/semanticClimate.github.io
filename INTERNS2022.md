@@ -3,7 +3,7 @@
 ***NOTE. Check this file regularly for updates***
 
 versions
-* 2022-1031. First draft
+* 2022-10-31. First draft
 
 
 We invited applications (now closed) for the 2022-10 intake. As in [previous years]()  we have set an `induction task` to explore candidates' experience and skills. 
