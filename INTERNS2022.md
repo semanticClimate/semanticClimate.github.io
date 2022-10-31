@@ -1,6 +1,5 @@
 # Induction test
-TABLE OF CONTENTS
-[1. purpose of internships](1#-purpose-of-internships)
+
 ***NOTE. Check this file regularly for updates***
 
 versions
