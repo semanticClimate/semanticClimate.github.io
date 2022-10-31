@@ -34,6 +34,8 @@ learning new skills and working with a wide variety of other groups.
 
 ## details of tasks
 
+Please watch this video before going to details of the tasks 
+[click here](https://openvirus.slack.com/files/U02RK4A2FV1/F048V8US8Q4/abbreviation_keyword_extraction_video.mp4). It will help you to understand the jupyter Notebook.
 
 Please complete each of the steps and document your results.
 
