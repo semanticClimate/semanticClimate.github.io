@@ -35,7 +35,7 @@ learning new skills and working with a wide variety of other groups.
 ## details of tasks
 
 Please watch this video before going to details of the tasks 
-[click here](https://openvirus.slack.com/files/U02RK4A2FV1/F048V8US8Q4/abbreviation_keyword_extraction_video.mp4). It will help you to understand the jupyter Notebook.
+[click here](https://drive.google.com/drive/folders/1YTZADd-GAKesuzW7brt3YBkCLhUEN1WG). It will help you to understand the jupyter Notebook.
 
 Please complete each of the steps and document your results.
 
@@ -56,7 +56,9 @@ The subtasks are:
 
 ### 3. Create abbreviation dictionary from the content
 Q. What tool was used to create the dictionary?(Hint-https://github.com/petermr/docanalysis#readme)
+
 Q. Where is the output dictionary?
+
 Q. Explain the first `entry` in the dictionary.(download the dictionary from files in notebook)
 
 ### 4. Clean and update the dictionary using Wikidata references                                                                                             
