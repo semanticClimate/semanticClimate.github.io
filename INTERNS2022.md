@@ -78,7 +78,7 @@ Run the annotation cell and explain what it does notebook last cell.
 
 please watch this video to under pygetpapers [click here](https://www.youtube.com/watch?v=pUjiNzLVHLY&t=29s)
 
-`pygetpapers` was written by our volunteer Ayush Garg and is available at https://pypi.org/project/pygetpapers/. 
+`pygetpapers` was written by our volunteer Ayush Garg and is available [here](https://pypi.org/project/pygetpapers/). 
 
 ***Initially Limit your hits to 10 hits***
 
