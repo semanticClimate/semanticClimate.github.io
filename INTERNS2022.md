@@ -44,7 +44,7 @@ We would like to have your results/documentation within two days [insert date]
 ### 1. content
 
 Our initial content will be Chapter08 of IPCC WG3 Climate Change 2022: [Mitigation of Climate Change](https://www.ipcc.ch/report/ar6/wg3/). Download chapter08
-It's over 100 pages. We are developing tools to make it easier to read. Please read (**only**) the **first TWO paragraphs** of the Executive summary to gain a better understanding of the IPCC report.
+It's over 100 pages. We are developing tools to make it easier to read. Please read (**only**) the **first two paragraphs** of the Executive summary to gain a better understanding of the IPCC report.
 
 ### 2. using Jupyter Notebooks (in Google Colab) to analyze the chapters
 
