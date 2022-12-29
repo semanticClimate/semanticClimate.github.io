@@ -39,7 +39,7 @@ Please watch this video before going to details of the tasks
 
 Please complete each of the steps and document your results.
 
-We would like to have your results/documentation by November [insert date]
+We would like to have your results/documentation within two days [insert date]
 
 ### 1. content
 
@@ -48,7 +48,7 @@ It's over 100 pages. We are developing tools to make it easier to read. Please r
 
 ### 2. using Jupyter Notebooks (in Google Colab) to analyze the chapters
 
-You should Analyze Chapter08 using [Jupyter Notebooks in Google Colab](https://colab.research.google.com/github/petermr/semanticClimate/blob/main/outreach/cambridge_presentation/Hackathon_Notebook/climate_hackathon_chapter08.ipynb). We expect this will be new for many of you; we want to see how well you can tackle new challenges. You can get help from the web or friends. We have already provided an HTML version of the chapter in the notebook. we will appreciate your efforts.
+You should Analyze complete Chapter08 using [Jupyter Notebooks in Google Colab](https://colab.research.google.com/github/petermr/semanticClimate/blob/main/outreach/cambridge_presentation/Hackathon_Notebook/climate_hackathon_chapter08.ipynb). We expect this will be new for many of you; we want to see how well you can tackle new challenges. You can get help from the web or friends. We have already provided an HTML version of the chapter in the notebook. we will appreciate your efforts.
 
 Q. Explain (1 sentence) the two types of `cell` in a Notebook.
 
